@@ -1,0 +1,167 @@
+<div align="center">
+
+# Hi there! 👋 I'm Benjamín Olvera
+
+### Software Engineer · Enterprise Apps · Developer Tooling · Great UX
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/benjaminolverar/)
+[![npm](https://img.shields.io/badge/npm-@benjaminor--dev-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/~benjaminor-dev)
+[![GitHub followers](https://img.shields.io/github/followers/BenjaminOR-dev?style=for-the-badge&logo=github&label=Followers)](https://github.com/BenjaminOR-dev?tab=followers)
+
+*Building scalable software, elegant interfaces, and tools that make teams faster.*
+
+🇲🇽 Mexico · he/him · Financial sector & digital platforms
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+I'm a **Software Engineer** focused on **enterprise-grade** applications across **frontend, backend, mobile, and cloud**.
+
+I care about clean architecture, developer experience, reusable components, and software that stays maintainable years after shipping.
+
+By day I build **secure financial software**. I also contribute to **government digital platforms** and maintain **open-source Quasar extensions** on npm.
+
+```text
+const benjamin = {
+  code: ["TypeScript", "Vue", "Quasar", "Laravel", "PHP", "Java"],
+  focus: ["DX", "Component libraries", "Forms", "File preview", "APIs"],
+  currently: "Shipping npm tooling + enterprise apps",
+  fun: ["UI design", "AI-assisted dev", "gaming", "dogs 🐶"],
+};
+```
+
+---
+
+## 🌟 Featured Open Source
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 📋 Form Builder for Quasar
+
+Declarative forms for **Vue 3 + Quasar** with typed fields, Pinia state, validation, and 25+ inputs.
+
+[![npm](https://img.shields.io/npm/v/@benjaminor-dev/quasar-app-extension-form-builder?label=form-builder)](https://www.npmjs.com/package/@benjaminor-dev/quasar-app-extension-form-builder)
+[![GitHub](https://img.shields.io/github/stars/BenjaminOR-dev/quasar-app-extension-form-builder?style=social)](https://github.com/BenjaminOR-dev/quasar-app-extension-form-builder)
+
+```bash
+quasar ext add @benjaminor-dev/form-builder
+```
+
+</td>
+<td width="50%" valign="top">
+
+### 👁 Dialog File Preview
+
+Imperative file preview modal — images, **adaptive PDF**, video, audio, text.
+
+[![npm](https://img.shields.io/npm/v/@benjaminor-dev/quasar-app-extension-dialog-file-preview?label=dialog-preview)](https://www.npmjs.com/package/@benjaminor-dev/quasar-app-extension-dialog-file-preview)
+[![GitHub](https://img.shields.io/github/stars/BenjaminOR-dev/quasar-app-extension-dialog-file-preview?style=social)](https://github.com/BenjaminOR-dev/quasar-app-extension-dialog-file-preview)
+
+```bash
+quasar ext add @benjaminor-dev/dialog-file-preview
+```
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠 Tech Stack
+
+<div align="center">
+
+### Frontend
+![Vue](https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+![Quasar](https://img.shields.io/badge/Quasar-1976D2?style=flat-square&logo=quasar&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=flat-square&logo=vuetify&logoColor=white)
+
+### Backend
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
+
+### DevOps & Mobile
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Capacitor](https://img.shields.io/badge/Capacitor-119EFF?style=flat-square&logo=capacitor&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=BenjaminOR-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub stats" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=BenjaminOR-dev&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BenjaminOR-dev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
+
+</div>
+
+---
+
+## 💡 What I Like Building
+
+| Area | Examples |
+|------|----------|
+| **Enterprise web** | Secure dashboards, workflows, multi-tenant apps |
+| **Developer tooling** | Form builders, preview libs, scaffolds, reusable inputs |
+| **Integrations** | REST/SOAP APIs, file pipelines, auth flows |
+| **Mobile** | Capacitor apps with shared Vue logic |
+| **Automation** | CI/CD, internal scripts, AI-assisted workflows |
+
+---
+
+## 🌱 Currently Exploring
+
+- AI engineering & **agentic development**
+- Local LLMs and practical AI in the SDLC
+- Advanced cloud & **enterprise security** patterns
+- Performance tuning for heavy UIs (PDF, large forms, previews)
+
+---
+
+## ⚡ Fun Facts
+
+- 💙 Obsessed with **polished UI** and micro-interactions
+- 🤖 Daily driver for **AI-assisted** coding — with engineering judgment
+- 🎮 Gamer when I'm not shipping features
+- 🐶 Proud dog person
+- 🚀 Always refactoring one more abstraction… responsibly
+
+---
+
+<div align="center">
+
+### 💬 Let's connect
+
+If you're into **Vue/Quasar**, **Laravel**, or **developer tooling**, feel free to reach out or open an issue on any of my repos.
+
+<br/>
+
+> *"Great software isn't just about making things work—it's about making it elegant, maintainable, and enjoyable to build."*
+
+<br/>
+
+![Snake animation](https://github.com/BenjaminOR-dev/BenjaminOR-dev/blob/output/github-contribution-grid-snake.svg)
+
+</div>
