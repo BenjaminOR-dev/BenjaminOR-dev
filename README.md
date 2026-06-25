@@ -4,7 +4,7 @@
 
 ### Software Engineer · Enterprise Apps · Developer Tooling · Great UX
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/benjaminolverar/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/benjam%C3%ADn-olvera-rosales-bb9aa8245/)
 [![npm](https://img.shields.io/badge/npm-@benjaminor--dev-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/~benjaminor-dev)
 [![GitHub followers](https://img.shields.io/github/followers/BenjaminOR-dev?style=for-the-badge&logo=github&label=Followers)](https://github.com/BenjaminOR-dev?tab=followers)
 
@@ -18,18 +18,21 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Software Engineer** focused on **enterprise-grade** applications across **frontend, backend, mobile, and cloud**.
+I'm a **Software Engineer** with hands-on experience across **frontend, backend, mobile, and cloud** — architecture, debugging, and shipping production software on my own, not only with tooling.
 
 I care about clean architecture, developer experience, reusable components, and software that stays maintainable years after shipping.
 
 By day I build **secure financial software**. I also contribute to **government digital platforms** and maintain **open-source Quasar extensions** on npm.
 
+I use **AI as a support tool** (boilerplate, exploration, docs) — always with engineering judgment — but my day-to-day work is grounded in **classic software engineering**: design, code review, testing mindset, and ownership end to end.
+
 ```text
 const benjamin = {
   code: ["TypeScript", "Vue", "Quasar", "Laravel", "PHP", "Java"],
   focus: ["DX", "Component libraries", "Forms", "File preview", "APIs"],
+  approach: "Engineer first — AI assists, never replaces thinking",
   currently: "Shipping npm tooling + enterprise apps",
-  fun: ["UI design", "AI-assisted dev", "gaming", "dogs 🐶"],
+  fun: ["UI design", "clean architecture", "gaming", "dogs 🐶"],
 };
 ```
 
@@ -127,23 +130,23 @@ quasar ext add @benjaminor-dev/dialog-file-preview
 | **Developer tooling** | Form builders, preview libs, scaffolds, reusable inputs |
 | **Integrations** | REST/SOAP APIs, file pipelines, auth flows |
 | **Mobile** | Capacitor apps with shared Vue logic |
-| **Automation** | CI/CD, internal scripts, AI-assisted workflows |
+| **Automation** | CI/CD, internal scripts, repeatable release flows |
 
 ---
 
 ## 🌱 Currently Exploring
 
-- AI engineering & **agentic development**
-- Local LLMs and practical AI in the SDLC
 - Advanced cloud & **enterprise security** patterns
 - Performance tuning for heavy UIs (PDF, large forms, previews)
+- Practical uses of **AI in the SDLC** — as acceleration, not as a substitute for engineering
+- Local LLMs and agent workflows (experimentation on the side)
 
 ---
 
 ## ⚡ Fun Facts
 
 - 💙 Obsessed with **polished UI** and micro-interactions
-- 🤖 Daily driver for **AI-assisted** coding — with engineering judgment
+- 🧠 **Software engineer first** — I write, review, and ship code; AI is a helper, not the job title
 - 🎮 Gamer when I'm not shipping features
 - 🐶 Proud dog person
 - 🚀 Always refactoring one more abstraction… responsibly
