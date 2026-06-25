@@ -113,8 +113,8 @@ quasar ext add @benjaminor-dev/dialog-file-preview
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=BenjaminOR-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub stats" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=BenjaminOR-dev&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=BenjaminOR-dev&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
+<img height="165" src="https://streak-stats.demolab.com/?user=BenjaminOR-dev&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BenjaminOR-dev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
 
