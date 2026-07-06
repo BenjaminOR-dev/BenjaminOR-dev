@@ -23,7 +23,7 @@ I'm a **Software Engineer** with hands-on experience across **frontend, backend,
 
 I care about clean architecture, developer experience, reusable components, and software that stays maintainable years after shipping.
 
-By day I build **secure financial software**. I also contribute to **government digital platforms** and maintain **open-source tooling** — Quasar extensions on npm and **Spring Boot libraries** on Maven Central.
+By day I build **secure financial software**. I also contribute to **government digital platforms** and ship **developer tooling** — Quasar extensions on npm and an **open-source** Spring Boot library on Maven Central.
 
 I use **AI as a support tool** (boilerplate, exploration, docs) — always with engineering judgment — but my day-to-day work is grounded in **classic software engineering**: design, code review, testing mindset, and ownership end to end.
 
@@ -39,9 +39,9 @@ const benjamin = {
 
 ---
 
-## 🌟 Featured Open Source
+## 🌟 Featured Projects
 
-**Quasar app extensions** (Vue 3 + Quasar, npm) — Form Builder is the base; Table Builder and Dialog File Preview extend it · **Spring Boot** (Maven Central)
+**Quasar extensions** (published on npm) · **Spring Validation Plus** (open source on GitHub & Maven Central)
 
 <table>
 <tr>
@@ -49,10 +49,9 @@ const benjamin = {
 
 ### 📋 Form Builder for Quasar
 
-Declarative forms with `defineForm` + `FormBuilder`: **25+ inputs**, conditional fields, `inputRules`, Pinia store, embedded **`FormList`** CRUD, and exportable **`DataTable`** (pagination, mobile cards).
+Declarative **Vue 3 + Quasar** forms — `defineForm`, 25+ inputs, `FormList`, `DataTable`, Pinia & `inputRules`.
 
 [![npm](https://img.shields.io/npm/v/@benjaminor-dev/quasar-app-extension-form-builder?label=form-builder)](https://www.npmjs.com/package/@benjaminor-dev/quasar-app-extension-form-builder)
-[![GitHub](https://img.shields.io/github/stars/BenjaminOR-dev/quasar-app-extension-form-builder?style=flat-square&logo=github)](https://github.com/BenjaminOR-dev/quasar-app-extension-form-builder)
 
 ```bash
 quasar ext add @benjaminor-dev/form-builder
@@ -63,10 +62,9 @@ quasar ext add @benjaminor-dev/form-builder
 
 ### 📊 Table Builder for Quasar
 
-Declarative list screens — **Form Builder filters**, server/client pagination & sorting, row selection, column slots, cancelable fetches. Reuses Form Builder **`DataTable`**.
+Declarative **list screens** — Form Builder filters, server/client pagination, sorting, selection & column slots.
 
 [![npm](https://img.shields.io/npm/v/@benjaminor-dev/quasar-app-extension-table-builder?label=table-builder)](https://www.npmjs.com/package/@benjaminor-dev/quasar-app-extension-table-builder)
-[![GitHub](https://img.shields.io/github/stars/BenjaminOR-dev/quasar-app-extension-table-builder?style=flat-square&logo=github)](https://github.com/BenjaminOR-dev/quasar-app-extension-table-builder)
 
 ```bash
 quasar ext add @benjaminor-dev/table-builder
@@ -75,30 +73,27 @@ quasar ext add @benjaminor-dev/table-builder
 </td>
 </tr>
 <tr>
-<td colspan="2" valign="top">
+<td width="50%" valign="top">
 
 ### 👁 Dialog File Preview for Quasar
 
-**Quasar app extension** — modal preview for images, **adaptive PDF**, video, audio, and text. Auto-integrates with Form Builder `InputFile` / `InputFileMultiple` (`showPreview`).
+Modal **file preview** — PDF, images, video & audio. Integrates with Form Builder `InputFile` fields.
 
 [![npm](https://img.shields.io/npm/v/@benjaminor-dev/quasar-app-extension-dialog-file-preview?label=dialog-preview)](https://www.npmjs.com/package/@benjaminor-dev/quasar-app-extension-dialog-file-preview)
-[![GitHub](https://img.shields.io/github/stars/BenjaminOR-dev/quasar-app-extension-dialog-file-preview?style=flat-square&logo=github)](https://github.com/BenjaminOR-dev/quasar-app-extension-dialog-file-preview)
 
 ```bash
 quasar ext add @benjaminor-dev/dialog-file-preview
 ```
 
 </td>
-</tr>
-<tr>
-<td colspan="2" valign="top">
+<td width="50%" valign="top">
 
-### ☕ Spring Validation Plus
+### ☕ Spring Validation Plus · open source
 
-Laravel-inspired validation for **Spring Boot & Jakarta Validation** — cross-field rules, conditional operators, i18n, ordered JSON errors, JPA `@Unique` / `@Exists`.
+Laravel-style validation for **Spring Boot** — cross-field rules, conditional operators, i18n & ordered JSON errors.
 
 [![Maven Central](https://img.shields.io/maven-central/v/io.github.benjaminor-dev/spring-validation-plus-spring-boot-starter?label=spring-validation-plus)](https://search.maven.org/artifact/io.github.benjaminor-dev/spring-validation-plus-spring-boot-starter)
-[![GitHub](https://img.shields.io/github/stars/BenjaminOR-dev/spring-validation-plus?style=flat-square&logo=github)](https://github.com/BenjaminOR-dev/spring-validation-plus)
+[![GitHub stars](https://img.shields.io/github/stars/BenjaminOR-dev/spring-validation-plus?style=flat-square&logo=github&label=stars)](https://github.com/BenjaminOR-dev/spring-validation-plus)
 
 ```xml
 <dependency>
@@ -183,7 +178,7 @@ Laravel-inspired validation for **Spring Boot & Jakarta Validation** — cross-f
 
 ### 💬 Let's connect
 
-If you're into **Vue/Quasar**, **Spring Boot**, **Laravel**, or **developer tooling**, feel free to reach out or open an issue on any of my repos.
+If you're into **Vue/Quasar**, **Spring Boot**, **Laravel**, or **developer tooling**, feel free to reach out or open an issue on [Spring Validation Plus](https://github.com/BenjaminOR-dev/spring-validation-plus).
 
 <br/>
 
