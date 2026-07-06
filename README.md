@@ -80,9 +80,12 @@ Laravel-style validation for **Spring Boot** — cross-field rules, conditional 
 [![Maven Central](https://img.shields.io/maven-central/v/io.github.benjaminor-dev/spring-validation-plus-spring-boot-starter?label=spring-validation-plus)](https://search.maven.org/artifact/io.github.benjaminor-dev/spring-validation-plus-spring-boot-starter)
 [![GitHub stars](https://img.shields.io/github/stars/BenjaminOR-dev/spring-validation-plus?style=flat-square&logo=github&label=stars)](https://github.com/BenjaminOR-dev/spring-validation-plus)
 
-```bash
-# Maven — starter artifact 0.3.0
-io.github.benjaminor-dev:spring-validation-plus-spring-boot-starter:0.3.0
+```xml
+<dependency>
+  <groupId>io.github.benjaminor-dev</groupId>
+  <artifactId>spring-validation-plus-spring-boot-starter</artifactId>
+  <version>0.3.0</version>
+</dependency>
 ```
 
 ---
