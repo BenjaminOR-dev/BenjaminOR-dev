@@ -43,10 +43,6 @@ const benjamin = {
 
 **Quasar extensions** (published on npm) · **Spring Validation Plus** (open source on GitHub & Maven Central)
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
 ### 📋 Form Builder for Quasar
 
 Declarative **Vue 3 + Quasar** forms — `defineForm`, 25+ inputs, `FormList`, `DataTable`, Pinia & `inputRules`.
@@ -56,9 +52,6 @@ Declarative **Vue 3 + Quasar** forms — `defineForm`, 25+ inputs, `FormList`, `
 ```bash
 quasar ext add @benjaminor-dev/form-builder
 ```
-
-</td>
-<td width="50%" valign="top">
 
 ### 📊 Table Builder for Quasar
 
@@ -70,11 +63,6 @@ Declarative **list screens** — Form Builder filters, server/client pagination,
 quasar ext add @benjaminor-dev/table-builder
 ```
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
 ### 👁 Dialog File Preview for Quasar
 
 Modal **file preview** — PDF, images, video & audio. Integrates with Form Builder `InputFile` fields.
@@ -85,9 +73,6 @@ Modal **file preview** — PDF, images, video & audio. Integrates with Form Buil
 quasar ext add @benjaminor-dev/dialog-file-preview
 ```
 
-</td>
-<td width="50%" valign="top">
-
 ### ☕ Spring Validation Plus · open source
 
 Laravel-style validation for **Spring Boot** — cross-field rules, conditional operators, i18n & ordered JSON errors.
@@ -95,17 +80,10 @@ Laravel-style validation for **Spring Boot** — cross-field rules, conditional 
 [![Maven Central](https://img.shields.io/maven-central/v/io.github.benjaminor-dev/spring-validation-plus-spring-boot-starter?label=spring-validation-plus)](https://search.maven.org/artifact/io.github.benjaminor-dev/spring-validation-plus-spring-boot-starter)
 [![GitHub stars](https://img.shields.io/github/stars/BenjaminOR-dev/spring-validation-plus?style=flat-square&logo=github&label=stars)](https://github.com/BenjaminOR-dev/spring-validation-plus)
 
-```xml
-<dependency>
-  <groupId>io.github.benjaminor-dev</groupId>
-  <artifactId>spring-validation-plus-spring-boot-starter</artifactId>
-  <version>0.3.0</version>
-</dependency>
+```bash
+# Maven — starter artifact 0.3.0
+io.github.benjaminor-dev:spring-validation-plus-spring-boot-starter:0.3.0
 ```
-
-</td>
-</tr>
-</table>
 
 ---
 
