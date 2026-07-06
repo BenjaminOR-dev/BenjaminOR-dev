@@ -45,7 +45,7 @@ const benjamin = {
 
 ### 📋 Form Builder for Quasar
 
-Declarative **Vue 3 + Quasar** forms — `defineForm`, 25+ inputs, `FormList`, `DataTable`, Pinia & `inputRules`.
+Declarative **Vue 3 + Quasar** forms — `defineForm`, 25+ inputs, `FormList`, Pinia & `inputRules`.
 
 [![npm](https://img.shields.io/npm/v/@benjaminor-dev/quasar-app-extension-form-builder?label=form-builder)](https://www.npmjs.com/package/@benjaminor-dev/quasar-app-extension-form-builder)
 
@@ -55,11 +55,12 @@ quasar ext add @benjaminor-dev/form-builder
 
 ### 📊 Table Builder for Quasar
 
-Declarative **list screens** — Form Builder filters, server/client pagination, sorting, selection & column slots.
+Declarative **list screens** — Form Builder filters, server/client pagination, sorting, selection & column slots. **Requires Form Builder first.**
 
 [![npm](https://img.shields.io/npm/v/@benjaminor-dev/quasar-app-extension-table-builder?label=table-builder)](https://www.npmjs.com/package/@benjaminor-dev/quasar-app-extension-table-builder)
 
 ```bash
+quasar ext add @benjaminor-dev/form-builder
 quasar ext add @benjaminor-dev/table-builder
 ```
 
