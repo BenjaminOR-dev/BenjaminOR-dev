@@ -45,42 +45,44 @@ const benjamin = {
 
 <table>
 <tr>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
 ### 📋 Form Builder for Quasar
 
 Declarative forms for **Vue 3 + Quasar** with typed fields, Pinia state, validation, and 25+ inputs.
 
 [![npm](https://img.shields.io/npm/v/@benjaminor-dev/quasar-app-extension-form-builder?label=form-builder)](https://www.npmjs.com/package/@benjaminor-dev/quasar-app-extension-form-builder)
-[![GitHub](https://img.shields.io/github/stars/BenjaminOR-dev/quasar-app-extension-form-builder?style=social)](https://github.com/BenjaminOR-dev/quasar-app-extension-form-builder)
+[![GitHub](https://img.shields.io/github/stars/BenjaminOR-dev/quasar-app-extension-form-builder?style=flat-square&logo=github)](https://github.com/BenjaminOR-dev/quasar-app-extension-form-builder)
 
 ```bash
 quasar ext add @benjaminor-dev/form-builder
 ```
 
 </td>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
 ### 📊 Table Builder for Quasar
 
-Declarative **data tables** for Vue 3 + Quasar — filters via Form Builder, server/client pagination, backend sorting, row selection, column slots, and cancelable fetches.
+Declarative **data tables** — Form Builder filters, server/client pagination, sorting, row selection, and column slots.
 
 [![npm](https://img.shields.io/npm/v/@benjaminor-dev/quasar-app-extension-table-builder?label=table-builder)](https://www.npmjs.com/package/@benjaminor-dev/quasar-app-extension-table-builder)
-[![GitHub](https://img.shields.io/github/stars/BenjaminOR-dev/quasar-app-extension-table-builder?style=social)](https://github.com/BenjaminOR-dev/quasar-app-extension-table-builder)
+[![GitHub](https://img.shields.io/github/stars/BenjaminOR-dev/quasar-app-extension-table-builder?style=flat-square&logo=github)](https://github.com/BenjaminOR-dev/quasar-app-extension-table-builder)
 
 ```bash
 quasar ext add @benjaminor-dev/table-builder
 ```
 
 </td>
-<td width="33%" valign="top">
+</tr>
+<tr>
+<td colspan="2" valign="top">
 
 ### 👁 Dialog File Preview for Quasar
 
 **Quasar app extension** — imperative file preview modal for images, **adaptive PDF**, video, audio, and text.
 
 [![npm](https://img.shields.io/npm/v/@benjaminor-dev/quasar-app-extension-dialog-file-preview?label=dialog-preview)](https://www.npmjs.com/package/@benjaminor-dev/quasar-app-extension-dialog-file-preview)
-[![GitHub](https://img.shields.io/github/stars/BenjaminOR-dev/quasar-app-extension-dialog-file-preview?style=social)](https://github.com/BenjaminOR-dev/quasar-app-extension-dialog-file-preview)
+[![GitHub](https://img.shields.io/github/stars/BenjaminOR-dev/quasar-app-extension-dialog-file-preview?style=flat-square&logo=github)](https://github.com/BenjaminOR-dev/quasar-app-extension-dialog-file-preview)
 
 ```bash
 quasar ext add @benjaminor-dev/dialog-file-preview
@@ -89,7 +91,7 @@ quasar ext add @benjaminor-dev/dialog-file-preview
 </td>
 </tr>
 <tr>
-<td colspan="3" valign="top">
+<td colspan="2" valign="top">
 
 ### ☕ Spring Validation Plus
 
