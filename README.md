@@ -130,19 +130,6 @@ Laravel-inspired validation for **Spring Boot & Jakarta Validation** — cross-f
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=BenjaminOR-dev&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-<img height="165" src="https://streak-stats.demolab.com/?user=BenjaminOR-dev&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BenjaminOR-dev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
-
-</div>
-
----
-
 ## 💡 What I Like Building
 
 | Area | Examples |
@@ -183,9 +170,5 @@ If you're into **Vue/Quasar**, **Spring Boot**, **Laravel**, or **developer tool
 <br/>
 
 > *"Great software isn't just about making things work—it's about making it elegant, maintainable, and enjoyable to build."*
-
-<br/>
-
-![Snake animation](https://github.com/BenjaminOR-dev/BenjaminOR-dev/blob/output/github-contribution-grid-snake.svg)
 
 </div>
