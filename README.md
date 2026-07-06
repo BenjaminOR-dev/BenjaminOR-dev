@@ -6,6 +6,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/benjam%C3%ADn-olvera-rosales-bb9aa8245/)
 [![npm](https://img.shields.io/badge/npm-@benjaminor--dev-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/~benjaminor-dev)
+[![Maven Central](https://img.shields.io/maven-central/v/io.github.benjaminor-dev/spring-validation-plus-spring-boot-starter?label=Maven%20Central&color=CB3837&style=for-the-badge&logo=apachemaven&logoColor=white)](https://search.maven.org/artifact/io.github.benjaminor-dev/spring-validation-plus-spring-boot-starter)
 [![GitHub followers](https://img.shields.io/github/followers/BenjaminOR-dev?style=for-the-badge&logo=github&label=Followers)](https://github.com/BenjaminOR-dev?tab=followers)
 
 *Building scalable software, elegant interfaces, and tools that make teams faster.*
@@ -22,16 +23,16 @@ I'm a **Software Engineer** with hands-on experience across **frontend, backend,
 
 I care about clean architecture, developer experience, reusable components, and software that stays maintainable years after shipping.
 
-By day I build **secure financial software**. I also contribute to **government digital platforms** and maintain **open-source Quasar extensions** on npm.
+By day I build **secure financial software**. I also contribute to **government digital platforms** and maintain **open-source tooling** — Quasar extensions on npm and **Spring Boot libraries** on Maven Central.
 
 I use **AI as a support tool** (boilerplate, exploration, docs) — always with engineering judgment — but my day-to-day work is grounded in **classic software engineering**: design, code review, testing mindset, and ownership end to end.
 
-```text
+```javascript
 const benjamin = {
-  code: ["TypeScript", "Vue", "Quasar", "Laravel", "PHP", "Java"],
-  focus: ["DX", "Component libraries", "Forms", "File preview", "APIs"],
+  code: ["TypeScript", "Vue", "Quasar", "Laravel", "PHP", "Java", "Spring Boot"],
+  focus: ["DX", "Component libraries", "Forms", "Validation", "APIs"],
   approach: "Engineer first — AI assists, never replaces thinking",
-  currently: "Shipping npm tooling + enterprise apps",
+  currently: "Spring Validation Plus 0.3.0 on Maven Central + Quasar tooling",
   fun: ["UI design", "clean architecture", "gaming", "dogs 🐶"],
 };
 ```
@@ -67,6 +68,26 @@ Imperative file preview modal — images, **adaptive PDF**, video, audio, text.
 
 ```bash
 quasar ext add @benjaminor-dev/dialog-file-preview
+```
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
+### ☕ Spring Validation Plus
+
+Laravel-inspired validation for **Spring Boot & Jakarta Validation** — cross-field rules, conditional operators, i18n, ordered JSON errors, JPA `@Unique` / `@Exists`.
+
+[![Maven Central](https://img.shields.io/maven-central/v/io.github.benjaminor-dev/spring-validation-plus-spring-boot-starter?label=spring-validation-plus)](https://search.maven.org/artifact/io.github.benjaminor-dev/spring-validation-plus-spring-boot-starter)
+[![GitHub](https://img.shields.io/github/stars/BenjaminOR-dev/spring-validation-plus?style=social)](https://github.com/BenjaminOR-dev/spring-validation-plus)
+
+```xml
+<dependency>
+  <groupId>io.github.benjaminor-dev</groupId>
+  <artifactId>spring-validation-plus-spring-boot-starter</artifactId>
+  <version>0.3.0</version>
+</dependency>
 ```
 
 </td>
@@ -127,7 +148,7 @@ quasar ext add @benjaminor-dev/dialog-file-preview
 | Area | Examples |
 |------|----------|
 | **Enterprise web** | Secure dashboards, workflows, multi-tenant apps |
-| **Developer tooling** | Form builders, preview libs, scaffolds, reusable inputs |
+| **Developer tooling** | Form builders, validation libs, preview libs, scaffolds |
 | **Integrations** | REST/SOAP APIs, file pipelines, auth flows |
 | **Mobile** | Capacitor apps with shared Vue logic |
 | **Automation** | CI/CD, internal scripts, repeatable release flows |
@@ -157,7 +178,7 @@ quasar ext add @benjaminor-dev/dialog-file-preview
 
 ### 💬 Let's connect
 
-If you're into **Vue/Quasar**, **Laravel**, or **developer tooling**, feel free to reach out or open an issue on any of my repos.
+If you're into **Vue/Quasar**, **Spring Boot**, **Laravel**, or **developer tooling**, feel free to reach out or open an issue on any of my repos.
 
 <br/>
 
