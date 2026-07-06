@@ -41,7 +41,7 @@ const benjamin = {
 
 ## 🌟 Featured Open Source
 
-**Quasar app extensions** (Vue 3 + Quasar, npm) · **Spring Boot libraries** (Maven Central)
+**Quasar app extensions** (Vue 3 + Quasar, npm) — Form Builder is the base; Table Builder and Dialog File Preview extend it · **Spring Boot** (Maven Central)
 
 <table>
 <tr>
@@ -49,7 +49,7 @@ const benjamin = {
 
 ### 📋 Form Builder for Quasar
 
-Declarative forms for **Vue 3 + Quasar** with typed fields, Pinia state, validation, and 25+ inputs.
+Declarative forms with `defineForm` + `FormBuilder`: **25+ inputs**, conditional fields, `inputRules`, Pinia store, embedded **`FormList`** CRUD, and exportable **`DataTable`** (pagination, mobile cards).
 
 [![npm](https://img.shields.io/npm/v/@benjaminor-dev/quasar-app-extension-form-builder?label=form-builder)](https://www.npmjs.com/package/@benjaminor-dev/quasar-app-extension-form-builder)
 [![GitHub](https://img.shields.io/github/stars/BenjaminOR-dev/quasar-app-extension-form-builder?style=flat-square&logo=github)](https://github.com/BenjaminOR-dev/quasar-app-extension-form-builder)
@@ -63,7 +63,7 @@ quasar ext add @benjaminor-dev/form-builder
 
 ### 📊 Table Builder for Quasar
 
-Declarative **data tables** — Form Builder filters, server/client pagination, sorting, row selection, and column slots.
+Declarative list screens — **Form Builder filters**, server/client pagination & sorting, row selection, column slots, cancelable fetches. Reuses Form Builder **`DataTable`**.
 
 [![npm](https://img.shields.io/npm/v/@benjaminor-dev/quasar-app-extension-table-builder?label=table-builder)](https://www.npmjs.com/package/@benjaminor-dev/quasar-app-extension-table-builder)
 [![GitHub](https://img.shields.io/github/stars/BenjaminOR-dev/quasar-app-extension-table-builder?style=flat-square&logo=github)](https://github.com/BenjaminOR-dev/quasar-app-extension-table-builder)
@@ -79,7 +79,7 @@ quasar ext add @benjaminor-dev/table-builder
 
 ### 👁 Dialog File Preview for Quasar
 
-**Quasar app extension** — imperative file preview modal for images, **adaptive PDF**, video, audio, and text.
+**Quasar app extension** — modal preview for images, **adaptive PDF**, video, audio, and text. Auto-integrates with Form Builder `InputFile` / `InputFileMultiple` (`showPreview`).
 
 [![npm](https://img.shields.io/npm/v/@benjaminor-dev/quasar-app-extension-dialog-file-preview?label=dialog-preview)](https://www.npmjs.com/package/@benjaminor-dev/quasar-app-extension-dialog-file-preview)
 [![GitHub](https://img.shields.io/github/stars/BenjaminOR-dev/quasar-app-extension-dialog-file-preview?style=flat-square&logo=github)](https://github.com/BenjaminOR-dev/quasar-app-extension-dialog-file-preview)
@@ -98,7 +98,7 @@ quasar ext add @benjaminor-dev/dialog-file-preview
 Laravel-inspired validation for **Spring Boot & Jakarta Validation** — cross-field rules, conditional operators, i18n, ordered JSON errors, JPA `@Unique` / `@Exists`.
 
 [![Maven Central](https://img.shields.io/maven-central/v/io.github.benjaminor-dev/spring-validation-plus-spring-boot-starter?label=spring-validation-plus)](https://search.maven.org/artifact/io.github.benjaminor-dev/spring-validation-plus-spring-boot-starter)
-[![GitHub](https://img.shields.io/github/stars/BenjaminOR-dev/spring-validation-plus?style=social)](https://github.com/BenjaminOR-dev/spring-validation-plus)
+[![GitHub](https://img.shields.io/github/stars/BenjaminOR-dev/spring-validation-plus?style=flat-square&logo=github)](https://github.com/BenjaminOR-dev/spring-validation-plus)
 
 ```xml
 <dependency>
